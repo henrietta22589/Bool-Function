@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 //Second Exercice: Write a C# Sharp program to check two given integers, and return true if one of them is 30 or if their sum is 30
 namespace Exercises
 {
-    internal class Program
+    internal class Program2
     {
         static void Main(string[] args)
         {
@@ -33,8 +33,6 @@ namespace Exercises
                 return false;
             }
         }
-
-        clas
 
     }
 }

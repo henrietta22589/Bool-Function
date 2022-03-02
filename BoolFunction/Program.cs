@@ -11,7 +11,7 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
-            bool callCheck = Check();
+            bool callCheck = Check(); //check function
 
         }
         static bool Check()
